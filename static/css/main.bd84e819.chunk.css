@@ -1,0 +1,2 @@
+.App{flex-direction:column;align-items:center;font-family:"Segoe UI",Tahoma,Geneva,Verdana,sans-serif;font-size:16px}.App,.nav{display:flex;justify-content:center}.nav{grid-gap:30px;gap:30px;background-color:#eb7bc0;padding:10px 50px}.nav__link{text-decoration:none;color:#fff}.nav__link--active{color:#000}.tab-links{margin:20px 0 10px}.tab-link{text-decoration:none;padding:0 8px;border:none;border-bottom:1px solid #000;color:#eb7bc0}.tab-link--active{color:#000;border:1px solid #000;border-bottom:none}
+/*# sourceMappingURL=main.bd84e819.chunk.css.map */
